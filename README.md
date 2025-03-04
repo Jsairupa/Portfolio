@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Skills
+## Skills
 
 **Languages**             Python, PySpark, SQL, R, SAS  
 
