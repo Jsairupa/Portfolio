@@ -37,11 +37,7 @@
 **Tools: R, Tableau, Linear Regression**  
 - Processed and analyzed **cancer incidence and mortality data for over 3,000 U.S. counties**, revealing significant regional disparities.  
 - Built and evaluated **linear regression models** with 95% confidence intervals and created **interactive dashboards in Tableau** to improve data-driven decision-making by 25%.  
-
-## Talks & Lectures
-- Guest Lecture: **Big Data and Machine Learning Applications** – RIT Data Science Society, 2024  
-- Guest Speaker: **NLP in Political Analysis** – AI & Society Conference, 2023  
-- Workshop: **Time Series Forecasting with ARIMA and Prophet** – Hyderabad Data Science Meetup, 2022  
+ 
 
 ## Publications & Certifications
 - **IBM Data Science Professional Certificate**  
