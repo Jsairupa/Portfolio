@@ -1,4 +1,4 @@
-# Data Scientist
+# Sai Rupa Jhade 
 
 #### Technical Skills  
 - **Languages:** Python, PySpark, SQL, R, SAS  
