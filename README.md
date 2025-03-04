@@ -1,5 +1,10 @@
-# Data Scientist
+---
+layout: home
+title: "Sai Rupa Jhade"
+subtitle: "Data Scientist | AI & Machine Learning Enthusiast"
+---
 
+Welcome to my portfolio! Explore my **projects, resume, and blog** to see my work in AI, Data Science, and Machine Learning.
 #### Technical Skills  
 - **Languages:** Python, PySpark, SQL, R, SAS  
 - **Technologies & Tools:** PyTorch, scikit-learn, Tableau, Excel, Git, Docker, JIRA  
