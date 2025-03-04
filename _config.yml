@@ -1,5 +1,5 @@
 title: Sai Rupa Jhade
-#logo: /assest:img/profile.png
-description: Data Scientist
+logo: /assest:img/profile.png
+description: Data Scientist | AI & NLP Enthusiast
 show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
