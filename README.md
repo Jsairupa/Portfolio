@@ -1,10 +1,14 @@
 # Data Scientist
 
 #### Skills
-Languages                 Python, PySpark, SQL, R, SAS
-Technologies & Tools      PyTorch, scikit-learn, Tableau, Excel, Git, Docker, JIRA
-Cloud & Databases         SQL Server Management Studio, MySQL, NoSQL(MongoDB), AWS Fundamentals
-Core Competencies         Statistical Data Analysis, Data Visualization, Machine Learning, Natural Language                                Processing, Deep Learning, Conversational AI
+
+**Languages**             Python, PySpark, SQL, R, SAS  
+
+**Technologies & Tools**  PyTorch, scikit-learn, Tableau, Excel, Git, Docker, JIRA  
+
+**Cloud & Databases**     SQL Server Management Studio, MySQL, NoSQL (MongoDB), AWS Fundamentals  
+
+**Core Competencies**     Statistical Data Analysis, Data Visualization, Machine Learning, Natural Language                                Processing, Deep Learning, Conversational AI  
 
 ## Education					    
 - **Master of Science in Data Science** | Rochester Institute of Technology (_Aug 2023 – Dec 2025_)  
