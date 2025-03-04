@@ -1,10 +1,10 @@
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/architect@v0.2.0
 title: "Sai Rupa Jhade | Data Scientist"
-description: "Exploring AI, Data Science, and Machine Learning."
+description: "Showcasing data-driven insights, AI projects, and analytics solutions."
 plugins:
   - jekyll-remote-theme
 
-# Navigation Links
+# Navigation
 navbar-links:
   About: "about.md"
   Projects: "projects.md"
