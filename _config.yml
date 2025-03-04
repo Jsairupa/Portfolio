@@ -1,21 +1,55 @@
-remote_theme: pages-themes/cayman@v0.2.0
-
-title: "Sai Rupa Jhade | Data Scientist"
+remote_theme: mmistakes/minimal-mistakes
+title: "Sai Rupa Jhade"
+subtitle: "Data Scientist | AI & Machine Learning Enthusiast"
 description: "Showcasing data-driven insights, AI projects, and analytics solutions."
-plugins:
-  - jekyll-remote-theme
+logo: "/assets/img/profile.jpg" # Upload your profile picture to /assets/img/
+search: true
+minimal_mistakes_skin: "default"
 
 # Navigation
-navbar-links:
-  About: "about.md"
-  Projects: "projects.md"
-  Resume: "resume.md"
-  Contact: "contact.md"
+navbar:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Resume"
+    url: /resume/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
 
-# Social Links
-github: Jsairupa
-linkedin: sairupajhade
-email: sj7740@rit.edu
+# Author Info
+author:
+  name: "Sai Rupa Jhade"
+  avatar: "/assets/img/profile.jpg"
+  bio: "Data Scientist with expertise in AI, Machine Learning, and NLP."
+  location: "Rochester, NY"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Jsairupa"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/sairupajhade"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:sj7740@rit.edu"
+
+# Social Media
+social:
+  links:
+    - "https://github.com/Jsairupa"
+    - "https://linkedin.com/in/sairupajhade"
+    - "mailto:sj7740@rit.edu"
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-archives
+
 
 
 
