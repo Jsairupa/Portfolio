@@ -1,15 +1,6 @@
----
-layout: home
-title: "Sai Rupa Jhade"
-subtitle: "Data Scientist | AI & Machine Learning Enthusiast"
----
+# Data Scientist
 
-Welcome to my portfolio! Explore my **projects, resume, and blog** to see my work in AI, Data Science, and Machine Learning.
-#### Technical Skills  
-- **Languages:** Python, PySpark, SQL, R, SAS  
-- **Technologies & Tools:** PyTorch, scikit-learn, Tableau, Excel, Git, Docker, JIRA  
-- **Cloud & Databases:** SQL Server Management Studio, MySQL, NoSQL (MongoDB), AWS Fundamentals  
-- **Core Competencies:** Statistical Data Analysis, Data Visualization, Machine Learning, Natural Language Processing, Deep Learning, Conversational AI 
+#### Technical Skills: Python, PySpark, SQL, R, SAS, AWS, Tableau, scikit-learn, PyTorch, TensorFlow, OpenCV, Docker, JIRA, Power BI, NLP, Deep Learning, Data Visualization, Statistical Data Analysis, Conversational AI, Machine Learning, Big Data Analytics
 
 ## Education					    
 - **Master of Science in Data Science** | Rochester Institute of Technology (_Aug 2023 – Dec 2025_)  
@@ -53,3 +44,4 @@ Welcome to my portfolio! Explore my **projects, resume, and blog** to see my wor
 - **Email:** [sj7740@rit.edu](mailto:sj7740@rit.edu)  
 - **LinkedIn:** [linkedin.com/in/sairupajhade](https://www.linkedin.com/in/sairupajhade/)  
 - **GitHub:** [github.com/Jsairupa](https://github.com/Jsairupa)
+
