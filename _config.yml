@@ -1,10 +1,10 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 title: "Sai Rupa Jhade | Data Scientist"
-description: "Welcome to my portfolio showcasing data science projects, AI research, and analytics insights."
+description: "Exploring AI, Data Science, and Machine Learning."
 plugins:
   - jekyll-remote-theme
 
-# Navigation Links (Customize as Needed)
+# Navigation Links
 navbar-links:
   About: "about.md"
   Projects: "projects.md"
@@ -12,10 +12,10 @@ navbar-links:
   Contact: "contact.md"
 
 # Social Links
-github: https://github.com/Jsairupa
-linkedin: https://www.linkedin.com/in/sairupajhade/
+github: Jsairupa
+linkedin: sairupajhade
 email: sj7740@rit.edu
 
-# Theme Customization (Optional)
-show_downloads: true
+
+
 
